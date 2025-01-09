@@ -8,7 +8,6 @@ A Node.js application for sending SMS messages using the Twilio API. This projec
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
