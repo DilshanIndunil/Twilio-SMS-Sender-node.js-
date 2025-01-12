@@ -3,6 +3,8 @@ const twilio = require("twilio");
 const dotenv = require("dotenv");
 const app = express();
 
+
+// .env config
 dotenv.config();
 
 async function sendSMS() {
